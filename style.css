@@ -119,6 +119,7 @@ main p {
   font-family: Arial, sans-serif;
   margin-top: 15px;
   padding-bottom: 10px;
+  line-height: 30px;
 }
 
 /* Unorganized list style  */
@@ -151,9 +152,12 @@ hr {
 
 /* Footer text Stylizing */
 
-footer div {
+footer p {
   text-align: center;
   font-size: 15px;
   font-family: Arial, sans-serif;
-  
+  background-color: #2e2e2e;
+  color: white;
+  padding: 10px;
+  margin: -10px;
 }
